@@ -47,7 +47,7 @@ Here is an image which can show what it exactly does.
   * Code generator
 * Community
 
-![Interface builder](http://blog.whatsbug.com/wp-content/uploads/2013/07/interface-builder.png)
+![Interface builder](http://blog.whatsbug.com/wp-content/uploads/2013/07/beeibpreview.gif)
 
 ## 2. Java
 
