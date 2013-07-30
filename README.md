@@ -1,4 +1,3 @@
-
 #Recommmend projects
 
 ## 1. Objective-C
@@ -15,8 +14,40 @@ Here is an image which can show what it exactly does.
 
 {Bee} is a modern mobile application framework for faster and easier app development, created and maintained by Gavin Kwoe and QFish.
 
-Here is an image which can show what it exactly does.
+* Full stack based on MVC
+  * Core cache
+  * Core database
+  * Core foundation
+  * Core networking
+  * Core runtime
+  * Controller & Messaging
+  * Model
+  * View animation
+  * View board
+  * View router
+  * View CSS
+  * View template
+  * View signaling
+  * View query
+* Easy debugging
+  * In-app debugger
+  * In-app inspector
+* Easy service
+  * Location service
+  * Update service
+  * Push service
+* Easy installation
+  * Install {Bee} SDK
+  * Drag and drop
+* Rich documents
+  * Developer manual
+  * CSS support list
+* Rich tools
+  * Interface builder
+  * Code generator
+* Community
 
+![Interface builder](http://blog.whatsbug.com/wp-content/uploads/2013/07/interface-builder.png)
 
 ## 2. Java
 
